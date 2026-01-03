@@ -59,13 +59,6 @@ income: Tracks payments, discharge dates, and descriptions.
 Installation & Setup
 To run this project locally, follow these steps:
 
-Clone the Repository:
-
-Bash
-
-git clone https://github.com/your-username/hms-project.git
-Move to Server Directory: Place the hms folder inside your XAMPP htdocs directory.
-
 Database Configuration:
 
 Open phpMyAdmin and create a database named hms_db.
